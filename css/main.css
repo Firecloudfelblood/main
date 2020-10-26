@@ -1,0 +1,11 @@
+body{
+    background: #b2e4ee;
+}
+.main-divs-display{
+    display: inline;
+}
+.center-margin{
+    margin-left: auto;
+    margin-right: auto;
+}
+
