@@ -1,6 +1,9 @@
 body{
     background: #b2e4ee;
 }
+div:hover{
+     border-color: #2fd3f4;
+ }
 .main-divs-display{
     display: inline;
 }
@@ -8,4 +11,8 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+.cetertext{
+    text-align: center;
+}
+
 
